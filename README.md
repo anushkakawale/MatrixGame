@@ -9,13 +9,6 @@ A simple React.js game where clicking a box changes its color, and the last box 
   - Click the **9th box** → all clicked boxes turn **orange** in sequence.
 - **React Hooks (useState) Used.**
 
-## 🛠️ Installation & Setup
-1. **Clone the Repository**
-   ```sh
-   git clone https://github.com/yourusername/matrix-color-game.git
-   cd matrix-color-game
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
