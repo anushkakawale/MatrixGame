@@ -1,3 +1,21 @@
+# 3x3 Matrix Color Game 🎨
+
+A simple React.js game where clicking a box changes its color, and the last box clicked turns all previous clicks orange in order.
+
+## 🚀 Features
+- **3x3 Grid:** Clickable boxes.
+- **Color Change:**
+  - Click a box → it turns **green**.
+  - Click the **9th box** → all clicked boxes turn **orange** in sequence.
+- **React Hooks (useState) Used.**
+
+## 🛠️ Installation & Setup
+1. **Clone the Repository**
+   ```sh
+   git clone https://github.com/yourusername/matrix-color-game.git
+   cd matrix-color-game
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
